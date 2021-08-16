@@ -1,1 +1,13 @@
-.vscode/settings.json
+.vscode
+bin
+config
+envs
+home
+mounts
+data/
+includes
+root
+src
+workons
+.editorconfig
+.env
